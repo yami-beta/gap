@@ -2,6 +2,12 @@
 
 Copy and rename files into output directory.
 
+## Install
+
+```bash
+deno install --allow-read --allow-write --allow-sys https://raw.githubusercontent.com/yami-beta/gap/main/gap.ts
+```
+
 ## How to use
 
 ```bash
